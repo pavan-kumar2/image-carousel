@@ -3,4 +3,4 @@ The Frontend Image Carousel project is a web-based application that allows users
 
 
 
-project link: pavan-kumar2.github.io/image-carousel/
+project link: https://pavan-kumar2.github.io/image-carousel/
